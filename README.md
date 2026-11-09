@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="assets/HAKAI_Banner.png" alt="HAKAI" width="100%">
+</div>
+
+
 # HAKAI
 
 ### Unlock More. Create More. Experience More.
