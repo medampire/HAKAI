@@ -83,6 +83,22 @@ This repository is intended for the distribution of HAKAI releases and related d
 
 Source code for proprietary HAKAI components is not publicly distributed.
 
+## ❤️ Support HAKAI Development
+
+HAKAI is and always will be **100% free**.
+
+No subscriptions, no paywalls, no forced payments.
+
+Developing HAKAI takes a considerable amount of time, research, testing and dedication.
+
+If you enjoy HAKAI and appreciate the work that goes into making these tools available to the MPC community, you are welcome to support its continued development with a voluntary donation.
+
+**Donations are entirely optional. Every HAKAI release remains freely available to everyone, regardless of whether you donate.**
+
+Your support is greatly appreciated!
+
+**Support HAKAI on Ko-fi**
+
 The availability of downloadable binaries or payloads does not grant permission to redistribute, modify or commercially exploit HAKAI software without authorization.
 
 ---
