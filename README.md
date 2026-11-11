@@ -97,7 +97,10 @@ If you enjoy HAKAI and appreciate the work that goes into making these tools ava
 
 Your support is greatly appreciated!
 
-**Support HAKAI on Ko-fi**
+You can send a donation at the following link: 
+
+[❤️ Support HAKAI on Ko-fi](https://ko-fi.com/hakaidev)
+
 
 The availability of downloadable binaries or payloads does not grant permission to redistribute, modify or commercially exploit HAKAI software without authorization.
 
